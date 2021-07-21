@@ -32,6 +32,15 @@ Step 3 - Write the following statements in the terminal one by one.
     pip install prettytable       
     pip install datetime
 
+![Module-installing_Gif](https://user-images.githubusercontent.com/77270386/126476824-a49706bd-c149-4e3d-a28a-ffb4d9683a47.gif)
+
+Step 4 - Run the program.
+
+![Running-the-program_gif](https://user-images.githubusercontent.com/77270386/126477610-dd5dea31-974e-4a87-b90f-f92418fb5fcb.gif)
+
+
+
+
 
 Yes! you are done with all the procedure and the program is ready to use.
 
