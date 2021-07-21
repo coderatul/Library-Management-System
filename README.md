@@ -1,5 +1,8 @@
 # Library-Management-System
-Hey! Fed up with the library theft? Here is the simple program to keep the work of the librarians simple and easy!
+Here is the simple and basic program to keep the work of the librarians simple and easy!
+This program consist a bunch of features like Adding and Deleting. The users can able to 
+view the list of books in table that has been created using the prettytable module.
+
 
     Features:-
        1. Adding books to the library
