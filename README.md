@@ -1,11 +1,17 @@
 # Library-Management-System
 Hey! Fed up with the library theft? Here is the simple program to keep the work of the librarians simple and easy!
 
-    Modules Used -
-    1. pyfiglet
-    2. prettytable
-    3. datetime
-    4. random 
+    Features:-
+       1. Adding books to the library
+       2. Deleting books from the library
+       
+       More features will be added soon.🙂
+
+    Modules Used:-
+       1. pyfiglet
+       2. prettytable
+       3. datetime
+       4. random 
 
 FOLLOW THE STEPS BELOW TO ACCESS THE PROGRAM :-
 
