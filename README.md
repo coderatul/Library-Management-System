@@ -46,7 +46,6 @@ Yes! you are done with all the procedure and the program is ready to use.
 
 Thank you for accessing my program!
 
-## SPECIAL THANKS TO JOHNEY FOR HELPING ME IN THIS PROJECT.
 
 
 
