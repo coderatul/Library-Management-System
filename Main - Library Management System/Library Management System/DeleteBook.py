@@ -1,3 +1,4 @@
+# function to delete Book code
 def del_code(n):
     a_file = open("Book_code.txt", "r+")
     lines = a_file.readlines()
@@ -11,7 +12,7 @@ def del_code(n):
     lines_del.close()
     app_lines.close()
 
-
+# function to delete books
 def del_book(n):
     a_file = open("Books.txt", "r+")
     lines = a_file.readlines()
@@ -25,7 +26,7 @@ def del_book(n):
     lines_del.close()
     app_lines.close()
 
-
+# function to delete Author name
 def del_Auth_name(n):
     a_file = open("Author_name.txt", "r+")
     lines = a_file.readlines()
@@ -40,7 +41,7 @@ def del_Auth_name(n):
     app_lines.close()
 
 
-
+# function to delete Publication year 
 def del_pub_year(n):
     a_file = open("Publish_year.txt", "r+")
     lines = a_file.readlines()
